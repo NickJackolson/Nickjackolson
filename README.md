@@ -1,16 +1,20 @@
-### Hi there 👋
+A new
 
-<!--
-**NickJackolson/Nickjackolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```sh
+|''||''| '||'''|,  '||\   /||` 
+   ||     ||   ||   ||\\.//||  
+   ||     ||;;;;    ||     ||  
+   ||     ||   ||   ||     ||  
+|..||..| .||...|'  .||     ||. 
+```
 
-Here are some ideas to get you started:
+employee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on *linux kernel*.
+- 🌱 I’m currently learning *GO language*
+- 👯 I’m looking to collaborate on *containerd*
+- 💬 Ask me about *anything*
+- 📫 How to reach me: *metedurlu@gmail.com / mete.durlu@ibm.com*
+- 😄 Pronouns: *he/him*
+- ⚡ Fun fact: there is a song called Bezos II about Jeff Bezos.
