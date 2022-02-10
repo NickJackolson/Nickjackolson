@@ -10,13 +10,13 @@ A new
 
 employee
 
-- I’m currently working on: `linux kernel`
+- I’m currently working on: `linux kernel` 🐧
 - I’m currently learning: `GO`
 - I’m looking to collaborate on: `containerd`
 - Ask me about: *anything*
 - How to reach me: *metedurlu@gmail.com / mete.durlu@ibm.com*
 - Pronouns: *he/him*
-- Fun fact: Did you know IBM has a patent for a cheese cutter?
+- Fun fact: Did you know IBM has a patent for a cheese cutter? 🧀
 
 
 - My favorite languages:
