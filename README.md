@@ -6,7 +6,6 @@ Other stuff about me:
 - I’m currently learning: `GO`
 - I’m looking to collaborate on: `containerd`
 - Ask me about: anything *technical*
-- How to reach me: *metedurlu@gmail.com / mete.durlu@linux.ibm.com*
 - Pronouns: *he/him*
 - Fun fact: Did you know IBM was producing a cheese slicer at some point in past? 🧀
 
