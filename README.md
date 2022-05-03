@@ -7,6 +7,8 @@ Other stuff about me:
 - I’m looking to collaborate on: `containerd`
 - Ask me about: anything *technical*
 - Pronouns: *he/him*
+- Anime fan
+- Love automating stuff
 - Fun fact: Did you know IBM was producing a cheese slicer at some point in past? 🧀
 
 - My favorite languages:
