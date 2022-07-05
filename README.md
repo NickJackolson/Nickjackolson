@@ -3,8 +3,7 @@ MY MOTTO: OPEN SOURCE RULES !
 Other stuff about me:
 
 - I’m currently working on: `linux kernel` 🐧
-- I’m currently learning: `GO`
-- I’m looking to collaborate on: `containerd`
+- I’m currently learning: `GO, Rust`
 - Ask me about: anything *technical*
 - Pronouns: *he/him*
 - Fun fact: Did you know IBM was producing a cheese slicer at some point in past? 🧀
