@@ -2,8 +2,8 @@ MY MOTTO: OPEN SOURCE RULES !
 
 Other stuff about me:
 
-- I’m currently working on: `linux kernel` 🐧
-- I’m currently learning: `GO, Rust`
+- I’m currently working on: `linux kernel on s390x` 🐧
+- I’m currently learning: `Rust, Go`
 - Ask me about: anything *technical*
 - Pronouns: *he/him*
 - Fun fact: Did you know IBM was producing a cheese slicer at some point in past? 🧀
@@ -14,6 +14,7 @@ Other stuff about me:
 - My favorite topics:
 Linux Kernel, Computer Vision, AI
 
+PS: My profile picture is from BM Cartoons. 
 
 | Git | Alltime/Streaks | StackOverflow |
 | --- | --- | --- |
