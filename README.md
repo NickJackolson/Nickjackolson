@@ -15,7 +15,3 @@ Other stuff about me:
 Linux Kernel, Computer Vision, AI
 
 PS: My profile picture is from BM Cartoons. 
-
-| Git | Alltime/Streaks | StackOverflow |
-| --- | --- | --- |
-| [![Stats](https://github-readme-stats.vercel.app/api?username=NickJackolson&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickJackolson)](https://git.io/streak-stats) | [![Mete Durlu StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12979163)](https://stackoverflow.com/users/12979163/meto) |
